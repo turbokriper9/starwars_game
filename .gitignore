@@ -1,0 +1,12 @@
+# .venv и настройки среды
+.venv/
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.DS_Store
+
+# Кэш
+*.log
+*.tmp
